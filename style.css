@@ -740,4 +740,5 @@ body.view-control-buttons .viewControlButton {
   height: 100%;
   z-index: 9999;
   background: url('img/pageLoader.gif') 50% 50% no-repeat rgb(53, 54, 58);
+  opacity: .92;
 }
