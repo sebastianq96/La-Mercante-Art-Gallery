@@ -17,7 +17,8 @@
 </head>
 
 <body class="multiple-scenes view-control-buttons">
-
+  <div class="loader"></div>
+  
   <div id="pano"></div>
 
   <div class="sceneName">
@@ -65,6 +66,13 @@
 
   <script src="data.js"></script>
   <script src="index.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+  
+   <script type="text/javascript">
+    $(window).load(function() {
+        $(".loader").fadeOut("slow");
+    });
+    </script>
 
 </body>
 
