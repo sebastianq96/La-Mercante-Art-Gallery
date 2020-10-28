@@ -1630,7 +1630,7 @@ var APP_DATA = {
           "yaw": 0.6248085342215006,
           "pitch": -0.43681334314356945,
           "title": "Bromelia 1 - Detalle (Choachí Cundinamarca)",
-          "text": "<div class='image-content'><img class='obra' src='img/Obras/38.JPG'></div><div>Autor: María del Pilar Zea<div>Dimensiones: 30 x 40cm&nbsp;</div><div>Técnica: Acuarela</div><div>Fecha: 2020</div><div>Precio: $600.000</div><div>Información: 3158710579</div><div>Correo: artemagiaycolor@gmail.com</div></div>"
+          "text": "<div class='image-content'><img class='obra' src='img/Obras/38.jpeg'></div><div>Autor: María del Pilar Zea<div>Dimensiones: 30 x 40cm&nbsp;</div><div>Técnica: Acuarela</div><div>Fecha: 2020</div><div>Precio: $600.000</div><div>Información: 3158710579</div><div>Correo: artemagiaycolor@gmail.com</div></div>"
         }
       ]
     },
