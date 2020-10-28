@@ -2318,7 +2318,7 @@ var APP_DATA = {
           "yaw": 1.090854363002439,
           "pitch": -0.5769218288478548,
           "title": "Inmerso en la soledad de un azul violeta",
-          "text": "<div class='image-content2'><img class='obra2' src='img/Obras/54.jpg'></div><div>Autor: Diana Mesa Galvis<div>Dimensiones: 26 x 36cm&nbsp;</div><div>Técnica: Acuarela</div><div>Fecha: 2020</div><div>Información: 3158710579</div><div>Correo: artemagiaycolor@gmail.com</div></div>"
+          "text": "<div class='image-content2'><img class='obra2' src='img/Obras/55.jpg'></div><div>Autor: Diana Mesa Galvis<div>Dimensiones: 26 x 36cm&nbsp;</div><div>Técnica: Acuarela</div><div>Fecha: 2020</div><div>Información: 3158710579</div><div>Correo: artemagiaycolor@gmail.com</div></div>"
         }
       ]
     },
@@ -2361,7 +2361,7 @@ var APP_DATA = {
           "yaw": 1.0754325465504504,
           "pitch": -0.5726737662994648,
           "title": "Recodo resplandeciente",
-          "text": "<div class='image-content2'><img class='obra2' src='img/Obras/55.jpg'></div><div>Autor: Diana Mesa Galvis<div>Dimensiones: 35 x 50cm&nbsp;</div><div>Técnica: Acuarela</div><div>Fecha: 2020</div><div>Información: 3158710579</div><div>Correo: artemagiaycolor@gmail.com</div></div>"
+          "text": "<div class='image-content2'><img class='obra2' src='img/Obras/54.jpg'></div><div>Autor: Diana Mesa Galvis<div>Dimensiones: 35 x 50cm&nbsp;</div><div>Técnica: Acuarela</div><div>Fecha: 2020</div><div>Información: 3158710579</div><div>Correo: artemagiaycolor@gmail.com</div></div>"
         }
       ]
     },
